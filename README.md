@@ -12,3 +12,16 @@ To run the server
 
     python3 manage.py runserver
 
+
+For the live website 
+
+[Link](http://yaswanthbandaru.pythonanywhere.com/)
+
+## Coming works
+
+- [ ] NavBar
+- [ ] About Page
+- [ ] Contact
+- [ ] Dark Mode
+- [ ] Forms Page
+- [ ] Email API
